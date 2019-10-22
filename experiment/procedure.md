@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Procedure</title>
 <body>
 <font size=10 color="blue" face="elephant"> Procedure:-</font>
 <br>
