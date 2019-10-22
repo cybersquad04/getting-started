@@ -1,0 +1,1 @@
+#Study   of   Thevenin's   theorem. 
