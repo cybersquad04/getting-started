@@ -35,7 +35,7 @@ instruments (ammeter and voltmeter). If students do wrong connections then simul
 starts flashing “Wrong Connection”. To get different results there must be options available
 to change values of R L and V S . St
 
-![title](https://https://github.com/cybersquad04/getting-started/blob/master/storyboard/Images/CC1.JPG)
+![title](https://https://github.com/cybersquad04/getting-started/blob/master/storyboard/Images/CC1.JPG.jpg)
 
 This is the second image which appear in simulator to check and recall student’s basic
 concepts of series circuit with options to change values of R 1 and R 2 to calculate R AB .
